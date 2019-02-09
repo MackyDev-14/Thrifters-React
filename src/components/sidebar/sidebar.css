@@ -1,0 +1,23 @@
+.sb-con{
+	height: 100vh;
+	background: grey;
+	width:400px;
+	white-space: nowrap;
+	transition: 1.5s;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.navs{
+	text-align: center;
+	color: white;
+	margin: 10px;
+	transition: 0.3s;
+}
+
+.navs:hover{
+	font-size: 26px;
+	text-decoration: none;
+}

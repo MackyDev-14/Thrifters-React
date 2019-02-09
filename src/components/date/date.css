@@ -1,0 +1,13 @@
+.date-con{
+	position: fixed;
+	top:0;
+	right: 0;
+	margin: 15px;
+	opacity: 0.4;
+	transition: .3s;
+}
+
+.date-con:hover{
+	opacity: 1;
+	transform: scale(1.1);
+}

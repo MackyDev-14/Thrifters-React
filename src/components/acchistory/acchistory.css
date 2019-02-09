@@ -1,0 +1,10 @@
+.acch-con{
+	text-align: center;
+	max-height: 800px;
+	overflow-y: scroll;
+}
+
+.table{
+	background: white;
+	width: 900px;
+}
